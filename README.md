@@ -1,2 +1,1 @@
-# abrigham-CCS16
-# abrigham-CCS16
+Aurora Github file for creative coding spring 2016
