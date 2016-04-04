@@ -1,7 +1,7 @@
 function setup() {
   createCanvas (windowWidth,windowHeight);
   
-  noLoop();
+  noLoop(); //Stop when done drawing
 }
 
 function draw() {
