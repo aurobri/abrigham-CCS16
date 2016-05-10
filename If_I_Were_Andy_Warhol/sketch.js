@@ -10,11 +10,13 @@ var hair;
 var lips;
 var numRihanna = 3; //three layers to create the screen printing effect that Warhol used on his images
 
+
 //Loading the image of Andy Warhol "muse" Rihanna
 function preload(){
   face = loadImage('assets/Rihanna_full.png');
   hair = loadImage('assets/Rihanna_hair.png'); //I used photoshop to separate the three parts of the image
   lips = loadImage('assets/Rihanna_lips.png'); //and created three separate .png files. 
+  
 }
 
 function setup() {
